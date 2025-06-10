@@ -36,7 +36,7 @@ Dataset used: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimoth
 
 ## 📺 Demo
 
-[Watch demo video]("C:\Users\ACHUTH\OneDrive\Videos\ScreenRecorderFiles\20250611\00-04-28.mp4")
+[Watch demo video]("https://drive.google.com/file/d/1VE1U9ofFAWf0xnU0aw3PQuKUxVO16Y8J/view?usp=sharing")
 
 ## 🛠️ Setup Instructions
 
