@@ -34,9 +34,12 @@ Dataset used: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimoth
 
 ---
 
-## 📺 Demo Video
+## 📺 Demo
+
+Here is a short video demonstrating how the Streamlit app works:
 
 [![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue?logo=google-drive)](https://drive.google.com/file/d/1VE1U9ofFAWf0xnU0aw3PQuKUxVO16Y8J/view?usp=sharing)
+
 
 
 ## 🛠️ Setup Instructions
